@@ -2,8 +2,11 @@ site_name: ELIXIR Training Lesson
 nav:
     - About: index.md
     - Course Content:
-      - "1. title of first chapter": chapters/chapter_01.md
-      - "2. title of second chapter": chapters/chapter_02.md
+      - "Preface": chapters/00_Preface.md
+      - "Searching in TeSS": chapters/chapter_01.md
+      - "Manual registration of events, material and a provider": chapters/chapter_02.md
+      - "Integrating TeSS widgets on your web site": chapters/chapter_03.md
+      - "Integrating TeSS widgets on your web site": chapters/chapter_03.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
