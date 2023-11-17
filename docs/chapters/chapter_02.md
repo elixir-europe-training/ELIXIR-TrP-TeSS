@@ -13,15 +13,15 @@ In order to be able to register resources in TeSS you need to log in the registr
 3.	To log in using your institutional account, choose Log in with LS Login from the dropdown menu
 You will be redirected to the LifeScience RI authentication page (Fig. 1).
 
-![screenshot for login page](../assets/images/6dXdfgu.jpg "Figure 1")
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/6dXdfgu.jpg "Figure 1")
 
 4.	Start typing the name of your own institution, for instance ‘VIB’, into the text box then choose the appropriate option that appears and proceed with your usual institutional login procedure (Fig. 2). 
 
-![screenshot for login page](../assets/images/l5mQUND.png "Figure 2")
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/l5mQUND.png "Figure 2")
 
 5. You should now be logged into TeSS. Once successful, you should be taken to the TeSS Welcome page with a message stating “Logged in successfully.”  You should also see your username in the top bar of the page, which you can click to view and edit your TeSS profile.
 
-![screenshot for login page](../assets/images/meCcJjO.png "Figure 3")
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/meCcJjO.png "Figure 3")
 
 6.	Check all the fields in your user profile are correct and click the “Update Profile” button.
 You will also see a button to log out of TeSS.
@@ -30,6 +30,7 @@ You will also see a button to log out of TeSS.
 ## Scenario 4: Manual registration of a training event in TeSS
 
 `TODO: move to Scenario 7?`
+
 A training event in TeSS is described by the BioSchemas profile CourseInstance, while the schema.org Event profile is something different. So, let’s start this session pointing out a few differences of each profile:
 
 An unique event such as a congress, symposium, webinar will be classified using the Event profile in Schemas.org, while the Bioschemas Course profile is attached to a unit of teaching that typically lasts one or more academic terms, is led by one or more instructors (teachers or professors), and has a fixed roster of students. A course usually covers an individual subject. Such a course will be linked to several course instances that happen at different moments, locations and might be also subjected to updates and small differences in the material. A course and/or course instance should be linked to a course material, that represents the content of this course/course instance. In TeSS, though, courses and courses instances are in called Event in the interface, while this is not the same as the profile in schemas.org. It works to filter among all courses, webinars, symposia, congresses etc.
@@ -38,7 +39,7 @@ Such an event in TeSS is a link to a single training event sourced by a provider
 
 Training events in TeSS can be added manually or automatically harvested from a provider's website. Here is the procedure to register for training events manually.
 
-![screenshot for login page](../assets/images/rhh0rv5.png)
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/rhh0rv5.png)
 
 
 *********************
@@ -50,7 +51,7 @@ Training events in TeSS can be added manually or automatically harvested from a 
 3. Click on “+ Register event”. As an example, we use an RNAseq training event.
 You will be directed to a form type of page. 
 
-![screenshot for login page](../assets/images/appDpje.png)
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/appDpje.png)
 
 4. Select that Type at the beginning of the form since we enter a face-to-face event.
 If your event is online, choosing the option "Online" which will modify the form to fit that type of event i.e. no address field has to be filled in. 
@@ -155,13 +156,13 @@ In case you do not find your organisation, please register it first as a Provide
 
 In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video, etc.) along with description and related meta information (e.g. ontological categorization, keywords, etc.). Materials can be added manually or automatically harvested from a provider's website. Here is the procedure to register training materials manually.
 
-![sketch of components of training material](../assets/images/MOGjyQj.png)
+![sketch of components of training material](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/MOGjyQj.png)
 
 1.	As outlined in [Protocol 4](#4), in order to register for training material in TeSS, login first. 
 
 2.	To register for training material, click on the Material menu.
 
-![screenshot about registering training material in TeSS](../assets/images/uKQ8Xr9.jpg)
+![screenshot about registering training material in TeSS](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/uKQ8Xr9.jpg)
 
 3.	Click on “+ Register training material”. You will be directed to a form. We will use training material about the use of AlphaFold for structure prediction of proteins and binary protein complexes.
 
@@ -211,7 +212,7 @@ We added the following text as Prerequisites in the field: ‘You are encouraged
 
 20.	We recommend applying the Bloom hierarchy of cognitive skills to formulate the Learning objectives. For more detailed information about our pedagogical model, please browse to the course material of the ELIXIR Train the Trainer course https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT. This field supports markdown syntax. 
  
-![overview of the Bloom taxonomy](../assets/images/tl5eM8b.png)
+![overview of the Bloom taxonomy](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/tl5eM8b.png)
 
 In our example, we enter the following text as Learning Objectives: ‘Understand the technical methodology of AlphaFold2, understand the technical setup at the Flemish SuperComputer, Predict three-dimensional protein models with AlphaFold2 using the HPC at the VSC UGhent’
 
@@ -244,7 +245,7 @@ For our example, we select ‘Multiple Sequence Alignment, Structure Visualisati
 
 30. The resulting training material can be visited in TeSS. 
 
-![screenshot for login page](../assets/images/9COCE0h.png)
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/9COCE0h.png)
 
 Our example can be found [here](https://tess.elixir-europe.org/materials/prediction-of-protein-structures-and-complexes-with-alphafold-on-the-hpc).
 
@@ -276,7 +277,7 @@ Here is one example: “NanoCommons will deliver a sustainable and openly access
 
 8. Enter a image to have a **visual representation of the content provider**. The image can be added by URL of the image location or by uploading an image.
 
-![screenshot for login page](../assets/images/qyOSDyb.png)
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/qyOSDyb.png)
 
 9. Enter the type of the content provider in the Type field. You can choose ‘Project’, ‘Organisation’ or ‘Portal’.
 
