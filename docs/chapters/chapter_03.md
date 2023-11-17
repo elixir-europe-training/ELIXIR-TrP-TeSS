@@ -54,7 +54,7 @@ In the next step, we will show how to VIB Technology Training has implemented th
 
 *********************
 
-TODO: find an events widget
+`TODO: find an events widge`
 
 If you'd like to see an implementation of the TeSS widget for materials, please browse to [https://technologytraining.sites.vib.be/en/overview-offering](https://technologytraining.sites.vib.be/en/overview-offering) and scroll to the bottom of the page.
 
