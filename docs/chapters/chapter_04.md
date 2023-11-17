@@ -100,7 +100,7 @@ For the training event and material, several mandatory fields have to be filled 
 
 ## Recommendations for automated harvesting of a training event in TeSS
 
-TODO: check on exercises
+`TODO: check on exercises`
 
 In step 2 of [Protocol 8](#protocol-8-automated-harvesting-of-a-training-event-in-tess), we recommend to follow the guidelines from the BioSchemas community on strategies on how to markup your internet sites by using this tutorial https://bioschemas.org/tutorials/howto/howto_add_markup. If your website is hosted on github, you can follow https://bioschemas.org/tutorials/howto/howto_add_github instead.
 
@@ -108,7 +108,7 @@ In step 3, in the case that you get an error during the validation procedure by 
 In step 7, you need to have an account on github.com to edit the sources.yml file. It is important to make sure the title and url exactly match the Content Provider's title and URL on TeSS. You will make changes in the github project ElixirTeSS/bioschemas_sources, for which you don’t have write access to. Submitting a change will write it to a new branch in your fork <your github user name>/bioschemas_sources, so that you can send a pull request afterwards.
 If you have implemented Bioschemas markup on your website and would like your content to appear in TeSS, see our "Bioschemas sources" repository for detailed information on how to proceed: https://github.com/ElixirTeSS/bioschemas_sources#readme
 
-TODO: add new feature on Provider page!
+`TODO: add new feature on Provider page!`
 
 ## Troubleshooting
 
