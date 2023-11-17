@@ -63,7 +63,7 @@ To get the full query, you need to concatenate all the individual queries with a
 
 E-learning resources are a specific type of training materials in TeSS which are displayed on the dedicated section **E-learning** on the main TeSS page. 
 
-![screenshot for TeSS page with search box](../assets/images/CXt2MEE.jpg)
+![screenshot for TeSS page with search box](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/CXt2MEE.jpg)
 
 But you can also perform a specific search on the Materials page filtering on 'Resource type' and retrieve e-learning material by specifying the value 'e-learning'.
 
