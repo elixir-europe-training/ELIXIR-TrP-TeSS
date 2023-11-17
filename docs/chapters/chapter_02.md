@@ -38,7 +38,7 @@ Training events in TeSS can be added manually or automatically harvested from a 
 ![screenshot for login page](./../assets/images/rhh0rv5.png)
 
 
-1. Login to TeSS at https://tess.elixir-europe.org following [Scenario 3](#6).
+1. Login to TeSS at https://tess.elixir-europe.org as outlined above in Scenario 3.
 
 2. To register for a training event, click on the Events menu.
 
