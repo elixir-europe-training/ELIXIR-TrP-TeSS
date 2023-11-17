@@ -1,8 +1,6 @@
-## Scenario 7: Integrating TeSS widgets on your web site
+## Scenario: Integrating TeSS widgets on your web site
 
   Widgets are chunks of JavaScript code that can be copied into website source code to display TeSS content. There are several different styles and functionalities available from our configurable widget suite. Widgets can be used to enhance your site and offer your community lists of relevant events or training resources. There are examples of code on [this page](https://elixirtess.github.io/TeSS_widgets/).
-
-
 
 You can use these widgets to enhance your site and offer your community lists of relevant events or training resources! Check the examples of code on the [widget examples page](https://elixirtess.github.io/TeSS_widgets/). We will provide one example below.
 
@@ -49,13 +47,6 @@ At any time you may remove any of the filters you applied to reduce stringency o
 
 If you'd like to use these widgets for training materials, investigate the example for training materials on the [same website](https://elixirtess.github.io/TeSS_widgets/).
 
-In the next step, we will show how to VIB Technology Training has implemented the widgets on their home page.
-
-
-*********************
-
 `TODO: find an events widge`
 
 If you'd like to see an implementation of the TeSS widget for materials, please browse to [https://technologytraining.sites.vib.be/en/overview-offering](https://technologytraining.sites.vib.be/en/overview-offering) and scroll to the bottom of the page.
-
-*********************
