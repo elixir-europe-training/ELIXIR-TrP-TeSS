@@ -39,7 +39,7 @@ Contributors: Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole 
 
 Technical Editors: Alexander Botzki
 
-License: [![CC BY](img/picture003.jpg)](http://creativecommons.org/licenses/by/4.0/)
+License: ![CC BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 
 ## Introduction
 
