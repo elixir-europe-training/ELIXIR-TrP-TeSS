@@ -1,4 +1,4 @@
-# ELIXIR Lesson Title 
+# TeSS, how can I help you?  
 
 ## Authors
 
@@ -10,32 +10,33 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.
     
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+    &emsp;1. Basic knowlegde of HTML  
+    &emsp;2. Basic knowledge of structured data as JSON-LD objects  
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    &emsp;1. search events and material in TeSS via direct and faceted search  
+    &emsp;2. add manually and automatically events and material to TeSS
+    &emsp;3. extract events and material from TeSS by using TeSS widgets
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
+    :fontawesome-solid-users: **Target Audience:** Researchers, trainers, training providers 
     </br>
     
-    :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
+    :fontawesome-solid-stairs: **Level:** Beginner  
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from [name of funders].  
+    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.  
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
@@ -55,7 +56,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 Please cite as:
 
-  1. Enter your citation here.
+  1. Bruna Piereck, Olivier Sand, Yasmine Maes, Alexander Botzki. (2023). The training course about using TeSS (v1.0.0). Zenodo. tbc
   2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
 
 ---
