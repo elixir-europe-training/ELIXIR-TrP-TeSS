@@ -6,7 +6,7 @@ nav:
       - "Searching in TeSS": chapters/chapter_01.md
       - "Manual registration of events, material and a provider": chapters/chapter_02.md
       - "Integrating TeSS widgets on your web site": chapters/chapter_03.md
-      - "Integrating TeSS widgets on your web site": chapters/chapter_03.md
+      - "Automatic ingestion of events or material via Bioschemas": chapters/chapter_04.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
