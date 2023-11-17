@@ -39,14 +39,14 @@ Contributors: Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole 
 
 Technical Editors: Alexander Botzki
 
-License: [![CC BY](../assets/images/Picture003.jpg)](http://creativecommons.org/licenses/by/4.0/)
+License: [![CC BY](http://creativecommons.org/licenses/by/4.0/)
 
 ## Introduction
 
 
 Many trainers and their organisations are passionate about sharing their training material. Sharing training material has several benefits like providing a record of recognition as an author, offering inspiration to other trainers, enabling researchers to discover training resources for their personal learning path, and facilitating to complement the training resource landscape by data-driven gap analysis from the bioinformatics community (see [PLOS Computational Biology, 16(5), e1007854](https://doi.org/10.1371/journal.pcbi.1007854)).
 
-![advantages of TeSS](../assets/images/XgXcCp3.png)
+![advantages of TeSS](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/XgXcCp3.png)
 
 In this tutorial, we elaborate a series of protocols leading the TeSS users through the process of searching and filtering TeSS content (Scenario 1 to 3). Scenario 4 to 7 show how to register manually and automatically training events and material in the [Training eSupport System (TeSS), ELIXIR’s training portal](https://tess.elixir-europe.org). More information about TeSS can be found in [this publication](https://doi.org/10.1093/bioinformatics/btaa047). 
 
@@ -54,6 +54,6 @@ TeSS provides a one-stop shop for trainers and trainees to discover online infor
 
 Training registries like TeSS use a scraping mechanism to aggregate training resources from many providers when they have been annotated using training specific [BioSchemas specifications](https://doi.org/10.1101/2022.11.24.516513). Protocol 8 will teach you how to enrich your training resources to allow for more efficient sharing of the structured metadata like prerequisites, target audience, and learning outcomes using Bioschemas specification. Once more and more training events and material are aggregated in TeSS, searching the registry for specific events and material becomes crucial.
 
-![overview annotations](../assets/images/KbCIsol.jpg)
+![overview annotations](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/KbCIsol.jpg)
 
 In the next section, you will find links where you can follow all scenarios.
