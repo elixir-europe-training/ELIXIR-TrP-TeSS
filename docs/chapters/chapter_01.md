@@ -14,7 +14,7 @@ Given the engagement of the ELIXIR Train the Trainer instructor's community to c
 
 Training resources (both events and materials) may be searched in TeSS in several ways. If you are on the main page of TeSS, a general search can be performed based on keywords, which will return separate lists of events and materials. Alternatively, events or materials can be searched for independently of each other. This second approach allows more precise filtering on several parameters (e.g., event type, country, and target audience) alone or in combination.
 
-![screenshot for TeSS page with search box](../assets/images/GxGphHo.png)
+![screenshot for TeSS page with search box](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/GxGphHo.png)
 
 In this protocol, we provide examples of searches for specific events or materials. Be aware that by searching for events, the standard search returns only future events. If you want to include past events, you need to click the **Show past event** button. 
 
