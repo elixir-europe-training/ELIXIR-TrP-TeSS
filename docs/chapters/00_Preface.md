@@ -12,13 +12,13 @@ One service offered by the Training Platform is TeSS, the training registry for 
 
 The Training eSupport System was developed to help trainees, trainers and their institutions to have a one-stop shop where they can share and find information about training and events, including training material. This way we can create a catalogue that can be shared within the community. How it works is what we are going to find out in this course.
 
-License: ![CC BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+License: ![CC BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png){: style="width:1in;"}
 
 ## Introduction
 
 Many trainers and their organisations are passionate about sharing their training material. Sharing training material has several benefits like providing a record of recognition as an author, offering inspiration to other trainers, enabling researchers to discover training resources for their personal learning path, and facilitating to complement the training resource landscape by data-driven gap analysis from the bioinformatics community (see [PLOS Computational Biology, 16(5), e1007854](https://doi.org/10.1371/journal.pcbi.1007854)).
 
-![advantages of TeSS](./../assets/images/XgXcCp3.png){: style="width:2.7559055118110236in;height:1.8371686351706036in"}
+![advantages of TeSS](./../assets/images/XgXcCp3.png)
 
 In this tutorial, we elaborate a series of protocols leading the TeSS users through the process of searching and filtering TeSS content (Scenario 1 to 3). Scenario 4 to 7 show how to register manually and automatically training events and material in the [Training eSupport System (TeSS), ELIXIR’s training portal](https://tess.elixir-europe.org). More information about TeSS can be found in [this publication](https://doi.org/10.1093/bioinformatics/btaa047). 
 
@@ -26,6 +26,6 @@ TeSS provides a one-stop shop for trainers and trainees to discover online infor
 
 Training registries like TeSS use a scraping mechanism to aggregate training resources from many providers when they have been annotated using training specific [BioSchemas specifications](https://doi.org/10.1101/2022.11.24.516513). Protocol 8 will teach you how to enrich your training resources to allow for more efficient sharing of the structured metadata like prerequisites, target audience, and learning outcomes using Bioschemas specification. Once more and more training events and material are aggregated in TeSS, searching the registry for specific events and material becomes crucial.
 
-![overview annotations](./../assets/images/KbCIsol.jpg){: style="width:2.7559055118110236in;height:1.8371686351706036in"}
+![overview annotations](./../assets/images/KbCIsol.jpg).
 
-In the next chapter, you can follow all scenarios.
+In the next chapter, you can follow all scenarios regarding searching events and material.

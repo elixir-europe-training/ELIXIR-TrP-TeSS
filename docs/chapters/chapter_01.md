@@ -15,13 +15,10 @@ Given the engagement of the ELIXIR Train the Trainer instructor's community to c
 
 Training resources (both events and materials) may be searched in TeSS in several ways. If you are on the main page of TeSS, a general search can be performed based on keywords, which will return separate lists of events and materials. Alternatively, events or materials can be searched for independently of each other. This second approach allows more precise filtering on several parameters (e.g., event type, country, and target audience) alone or in combination.
 
-![screenshot for TeSS page with search box](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/GxGphHo.png)
+![screenshot for TeSS page with search box](./../assets/images/GxGphHo.png)
 
 In this protocol, we provide examples of searches for specific events or materials. Be aware that by searching for events, the standard search returns only future events. If you want to include past events, you need to click the **Show past event** button. 
 
-**********************
-
- 
 Please navigate to [TeSS](https://tess.elixir-europe.org) and follow the steps shown below.
 
 1. Select Events in the top menu.
@@ -35,8 +32,6 @@ Please navigate to [TeSS](https://tess.elixir-europe.org) and follow the steps s
 At any time you may remove any of the filters you applied to reduce stringency of your search.
 
 Please proceed to the next step to see the results.
-
-**********************
 
 At any time you may remove any of the filters you applied to reduce stringency of your search.
 
@@ -64,11 +59,9 @@ To get the full query, you need to concatenate all the individual queries with a
 
 E-learning resources are a specific type of training materials in TeSS which are displayed on the dedicated section **E-learning** on the main TeSS page. 
 
-![screenshot for TeSS page with search box](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/CXt2MEE.jpg)
+![screenshot for TeSS page with search box](./../assets/images/CXt2MEE.jpg)
 
 But you can also perform a specific search on the Materials page filtering on 'Resource type' and retrieve e-learning material by specifying the value 'e-learning'.
-
-*********************
 
 Please navigate to [TeSS](https://tess.elixir-europe.org).
 
@@ -81,4 +74,3 @@ Please navigate to [TeSS](https://tess.elixir-europe.org).
 4.	Scroll to the facet ‘Resource type’ and select ‘e-learning’.
 
 5.	You get the list of training materials about data retrieval intended for a beginner level audience whereby the resource has been tagged as e-learning material. At any time you may remove any of the filters you applied to reduce stringency of your search.
-

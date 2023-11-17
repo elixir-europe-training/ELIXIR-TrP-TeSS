@@ -3,7 +3,7 @@
 
 Registering events and training materials makes them more findable in a variety ways to various user bases. TeSS features several options for automatically "harvesting" resources from external sources. This can be helpful if you are maintaining a large collection of events and materials that changes frequently. 
 
-![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/9COCE0h.png)
+![screenshot for login page](./../assets/images/9COCE0h.png)
 
 To register resources in TeSS automatically, we need to be able to extract data from target sources reliably. To this end, it is helpful if the data is structured according to a globally used standardized format. 
 
@@ -15,10 +15,8 @@ If your website currently includes no structured data, and you’d like your res
 
 TeSS supports the following Bioschemas profiles: for events that are courses **CourseInstance** and **Course**, for other events **Event**, for training materials **TrainingMaterial**. Fig. 3 displays a schematic overview of the protocol steps.
 
-![overview of the steps for automated harvesting](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/cpz1682-fig-0003-m.jpg)
+![overview of the steps for automated harvesting](./../assets/images/cpz1682-fig-0003-m.jpg)
 
-
-*********************
 
 1.	Select the profile [**Learning resource**](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE) for the automated harvesting of a specific training material. 
 For training events, select **Course/CourseInstance** for training by using the profile described at https://bioschemas.org/profiles/CourseInstance.
@@ -68,11 +66,11 @@ In our example, we use **index.html**.In order to inspect this object, browse to
 </script>
 ```
  
-3.	Validate the individual page with the [schema.org validator](https://validator.schema.org) by pasting the URL into the Fetch URL tab. The validation procedure will indicate if you have used non-existing properties of the Bioschemas profile. If error messages are returned, have a look at the [troubleshooting](#12) section below.
+3.	Validate the individual page with the [schema.org validator](https://validator.schema.org) by pasting the URL into the Fetch URL tab. The validation procedure will indicate if you have used non-existing properties of the Bioschemas profile. If error messages are returned, have a look at the troubleshooting section below.
 
 Example: https://nanocommons.github.io/tutorials/enteringData/index.html
 
-![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/b369eIQ.png)
+![screenshot for login page](./../assets/images/b369eIQ.png)
 
 4.	Create a sitemap listing the material page URL and save it as sitemap.xml. This sitemap.xml file needs to be publicly browsable on the internet. In our example, the manually created sitemap.xml is [published](https://nanocommons.github.io/sitemap.xml).
 More complex mechanisms for sitemap creation are available by using content management systems like Drupal and using specific sitemap plugins.
