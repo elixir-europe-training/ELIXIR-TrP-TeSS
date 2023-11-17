@@ -1,4 +1,4 @@
-## 1.1 More background information about TeSS
+## More background information about TeSS
 During the ELIXIR-EXCELERATE project, the TeSS platform has been established as the key application for bioinformatics training events and material aggregation. During a period of further adoption of the TeSS platform as such on the international level e.g. in Australia and in the Netherlands, it became obvious that the implementation of individual automatic content scrapers for more than 30 content providers lead to an enormous diversity of the code base and finally to a maintenance challenge. Therefore, during the last two to three years, a strategic reorientation of the automated harvesting procedure has been proposed and implemented in TeSS using the Bioschemas profiles for Course, CourseInstance and TrainingMaterial. This approach will put the content providers in a more prominent position since they are in turn responsible for a more structured delivery of more comprehensive metadata of their training events and material to TeSS as the aggregation platform. In the longer run, this will increase the quality level of the aggregated resources and its usefulness to TeSS user base.
 TODO: Would be insteresting to add a box explaining the specificity of each?
 
@@ -10,7 +10,7 @@ Related to the provisioning of persistent identifiers, TeSS provides the Digital
 
 Given the engagement of the ELIXIR Train the Trainer instructor's community to create a vibrant environment for reciprocal support and exchange of experiences via the ELIXIR Train the Trainer programme, the TeSS content providers are encouraged to  follow best-practice guidance on course and training material development (Via et al., 2020). Therefore, we recommend applying the Bloom hierarchy of cognitive skills to formulate the Learning objectives for the courses as well as for training material. For more detailed information about our pedagogical model, please browse to the course material of the [ELIXIR Train the Trainer course](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT). 
 
-## 1.2 Scenario 1: Searching for training events in TeSS
+## Scenario 1: Searching for training events in TeSS
 
 Training resources (both events and materials) may be searched in TeSS in several ways. If you are on the main page of TeSS, a general search can be performed based on keywords, which will return separate lists of events and materials. Alternatively, events or materials can be searched for independently of each other. This second approach allows more precise filtering on several parameters (e.g., event type, country, and target audience) alone or in combination.
 
@@ -59,7 +59,7 @@ If you would like to get the events from France, too, you'd need to add yet anot
 
 To get the full query, you need to concatenate all the individual queries with an ambersand `&`. 
 
-## 1.3 Scenario 2: Searching for e-learning materials in TeSS
+## Scenario 2: Searching for e-learning materials in TeSS
 
 E-learning resources are a specific type of training materials in TeSS which are displayed on the dedicated section **E-learning** on the main TeSS page. 
 
