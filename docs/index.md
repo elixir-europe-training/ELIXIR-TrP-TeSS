@@ -23,7 +23,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. search events and material in TeSS via direct and faceted search  
+    &emsp;1. search events and material in TeSS via direct and faceted search
     &emsp;2. add manually and automatically events and material to TeSS
     &emsp;3. extract events and material from TeSS by using TeSS widgets
     
@@ -63,9 +63,9 @@ Please cite as:
 ## Setup
 
 ### Data setup
-To run this lesson you need to install data from …
+To run this lesson you need to download example data from Zenodo (link to be added).
 
 ### Software setup
-To run this course you need to install… continue with software installation instructions
+To run this course you might need to install VS Code, but you could also use any text editor of your choice. 
 
 
