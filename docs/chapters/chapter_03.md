@@ -1,4 +1,4 @@
-## Scenario: Integrating TeSS widgets on your web site
+## Scenario 6: Integrating TeSS widgets on your web site
 
   Widgets are chunks of JavaScript code that can be copied into website source code to display TeSS content. There are several different styles and functionalities available from our configurable widget suite. Widgets can be used to enhance your site and offer your community lists of relevant events or training resources. There are examples of code on [this page](https://elixirtess.github.io/TeSS_widgets/).
 
