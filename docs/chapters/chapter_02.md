@@ -1,3 +1,13 @@
+Scenarios 3 is prerequisite for registering a provider and material or event information. For the training course, we recommend to use the TeSS sandbox. 
+
+!!! example "Use the TeSS sandbox for demo purposes"
+
+    1. Create an account on the [TeSS sandbox](https://dev.tess.elixir-europe.org/). You can follow Scenario 3 replace the real URL of TeSS by https://dev.tess.elixir-europe.org.
+    2. Register a new content provider on the TeSS sandbox (https://dev.tess.elixir-europe.org/). You can use Scenario 4 as a guide.
+    3. Choose one of your forthcoming events or improvise a dummy one.
+    4. Register this event on the TeSS sandbox. You can use Scenario 5 as a guide.
+
+
 ## Scenario 3: Log into TeSS using an institutional account
 
 In order to be able to register resources in TeSS you need to log in the registry. The following steps are specific for the login procedure with the Life Sciences Account. Alternatively, you can use another existing account like Google, Apple or an ORCID. In this case you will be redirected to the respective login portal.
@@ -24,8 +34,44 @@ You will be redirected to the LifeScience RI authentication page (Fig. 1).
 6.	Check all the fields in your user profile are correct and click the “Update Profile” button.
 You will also see a button to log out of TeSS.
 
+## Scenario 4: Registration of a content provider in TeSS
 
-## Scenario 4: Manual registration of a training event in TeSS
+Training resources (events and materials) may be added to TeSS to reach bigger audiences, increase impact and bolster event attendance. Registering events and training materials makes them more findable in a variety of ways to various user bases. TeSS features content providers which are entities (such as academic institutions, non-profit organisations, portals etc.) that provide training materials of relevance to life sciences and ELIXIR. In order to have a training event automatically harvested in TeSS, as described in [Scenario 8](#9), a content provider has to be registered first. It also adds visibility to content providers. Here is the procedure to register a new content provider in TeSS.
+
+
+1. Login to TeSS at https://tess.elixir-europe.org following [Scenario 4](#4).
+
+2. To register a content provider, click on the Providers menu.
+
+3. Click on “+ Register content provider”. You will be directed to a form type of page.
+
+4.  As an example, we will create the content provider NanoCommons. Enter “NanoCommons“ in the Title field.
+
+5. In the URL field, enter the URL of the content provider, which is “https://www.nanocommons.eu/” in our example.
+
+6. Enter “Jean Dupont” as a contact person in the Contact field.
+
+7. In the subsequent field Description, provide general information and relevant context about the content provider in the form of short text.
+
+This field supports markdown syntax.
+
+Here is one example: “NanoCommons will deliver a sustainable and openly accessible nanoinformatics framework (knowledgebase and integrated computational tools, supported by expert advice, data interpretation and training), for assessment of the risks of NMs, their products and their formulations. NanoCommons combines Joint Research Activities to implement the nanoinformatics Knowledge Commons, Networking Activities to facilitate engagement with the research community, industry and regulators, and provision of funded Access to the nanoinformatics tools via funded calls for Transnational Access.”
+
+8. Enter a image to have a **visual representation of the content provider**. The image can be added by URL of the image location or by uploading an image.
+
+![screenshot for login page](https://github.com/elixir-europe-training/ELIXIR-TrP-TeSS/blob/main/docs/assets/images/qyOSDyb.png)
+
+9. Enter the type of the content provider in the Type field. You can choose ‘Project’, ‘Organisation’ or ‘Portal’.
+
+10. In the field Approved Editors, You can add more than one **registered** user as Approved Editor. Selected users can be removed by clicking on the red cross.
+
+11. In the field Keywords, enter the keywords related to the content provider.
+
+12. Select an associated ELIXIR node if applicable. In this example, there is no direct association with ELIXIR nodes, so we leave it empty.
+
+13. Confirm the creation of the content provider by clicking on ‘Register content provider’.
+
+## Scenario 5: Manual registration of a training event in TeSS
 
 A training event in TeSS is described by the BioSchemas profile CourseInstance, while the schema.org Event profile is something different. So, let’s start this session pointing out a few differences of each profile:
 
