@@ -61,3 +61,10 @@ Please navigate to [TeSS](https://tess.elixir-europe.org).
 4.	Scroll to the facet ‘Resource type’ and select ‘e-learning’.
 
 5.	You get the list of training materials about data retrieval intended for a beginner level audience whereby the resource has been tagged as e-learning material. At any time you may remove any of the filters you applied to reduce stringency of your search.
+
+!!! example "Search exercises"
+
+    1. Using keywords search - find the training material of VIB: Git & GitHub training
+    2. Using the filters find the same material
+    3. Using keywords search for the training material of IFB:  Fair data - Module 1
+    4. Using the filters find the same material
