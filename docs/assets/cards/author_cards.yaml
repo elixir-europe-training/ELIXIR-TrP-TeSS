@@ -2,13 +2,13 @@
   content: |
     [:custom-orcid:](https://orcid.org/0000-0001-5958-0669) [:simple-github:](https://github.com/bpiereck)<br>
     Bruna Piereck, VIB Technology Training, ELIXIR Belgium, VIB, Belgium
-  image: ./assets/images/cards/001-athena.png
+  image: ./assets/images/cards/bruna.jpg
 
 - title: Olivier Sand
   content: |
     [:custom-orcid:](https://orcid.org/0000-0003-1465-1640) [:simple-github:](https://github.com/olisand)<br>
     Institut Française de Bioinformatique, Paris, France
-  image: ./assets/images/cards/003-zeus.png
+  image: ./assets/images/cards/olivier.png
 
 - title: Alexander Botzki
   content: |
