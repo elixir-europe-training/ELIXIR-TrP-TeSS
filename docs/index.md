@@ -23,10 +23,10 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. search events and material in TeSS via direct and faceted search
-    &emsp;2. add manually and automatically events and material to TeSS
-    &emsp;3. extract events and material from TeSS by using TeSS widgets
-    
+    &emsp;1. search events and material in TeSS via direct and faceted search  
+    &emsp;2. add manually and automatically events and material to TeSS  
+    &emsp;3. extract events and material from TeSS by using TeSS widgets  
+     
     </br>
     
     :fontawesome-solid-users: **Target Audience:** Researchers, trainers, training providers 
