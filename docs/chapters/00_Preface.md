@@ -4,6 +4,13 @@ Hello and welcome, this is our interactive hands-on course about efficient use o
 
 To prepare this training material, we have reused the content of the publication 'Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal' published in Current Protocols in Bioinformatics. The original publication of the protocols can be found [here](https://doi.org/10.1002/cpz1.682). 
 
+Links to presentations:
+
+- [Session 1: Introduction](https://docs.google.com/presentation/d/1By_IiPgEAZ7K3xsS4yyA32xNVmQuX2dl_7p2Xp8JDok/edit?usp=sharing)
+- [Session 2: Manual edition](https://docs.google.com/presentation/d/1VbkU7BtGZkxJsjWzpTxiMr36naJVMMpOG1hmCxM_uV4/edit?usp=sharing)
+- [Session 3: Widgets](https://docs.google.com/presentation/d/1C8lERNP9-WuMQLq_Ojq3y7_BMoY0NNNPF5dp7MpYZ5M/edit?usp=sharing)
+- [Session 4: Automated ingestion via Bioschemas](https://docs.google.com/presentation/d/1I8OALfDM9ES0-gm4MxrqSFrco3wRqkgNDjWRR5BpLuM/edit?usp=sharing)
+
 *About ELIXIR Training Platform*
 
 The ELIXIR Training Platform was established to develop a training community that spans all ELIXIR member states (see the list of Training Coordinators). It aims to strengthen national training programmes, grow bioinformatics training capacity and competence across Europe, and empower researchers to use ELIXIR's services and tools. 
